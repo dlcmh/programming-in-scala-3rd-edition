@@ -1,0 +1,2 @@
+cmd: scala "{FILE_ACTIVE_NAME}"
+cwd: "{FILE_ACTIVE_PATH}"
